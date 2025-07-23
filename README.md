@@ -4,3 +4,4 @@ Database : Mysql
 
 Web Server : Laragon / Xampp
 
+Port Mysql : 3307
