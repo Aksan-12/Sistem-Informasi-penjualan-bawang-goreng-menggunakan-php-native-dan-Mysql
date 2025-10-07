@@ -2,6 +2,12 @@
 
 Sistem informasi sederhana untuk manajemen penjualan bawang goreng yang dibuat menggunakan PHP native dan MySQL. Aplikasi ini mencakup fitur-fitur dasar untuk pencatatan penjualan, manajemen stok, pengelolaan data pelanggan, dan pelaporan.
 
+## Tampilan Aplikasi
+
+Berikut adalah tampilan dari halaman dashboard utama:
+
+![Screenshot Dashboard](bawang.png)
+
 ## Tentang Proyek
 
 Proyek ini bertujuan untuk menyediakan solusi digital bagi usaha kecil menengah (UKM) yang bergerak di bidang penjualan bawang goreng. Dengan antarmuka yang ramah pengguna dan responsif, aplikasi ini memudahkan pemilik usaha untuk memantau aktivitas bisnis mereka secara efisien, baik melalui perangkat desktop maupun mobile.
